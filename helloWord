@@ -1,6 +1,7 @@
 public class Test(){
   
   public void main(String[] args){
-    System.out.print("Helld Word")
+    //System.out.print("Helld Word");
+    System.out.print("i'm tiger!");
   }
 }
